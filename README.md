@@ -1,4 +1,4 @@
-##  **Análise de Preços de Medicamentos**  
+##  **Projeto de Engenharia de Dados**  
 
 Bem-vindo ao **Projeto de Análise de Preços de Medicamentos**! 
 Aqui, transformamos um conjunto de dados brutos em informações úteis para entender melhor o mercado farmacêutico.  
@@ -11,7 +11,7 @@ Se você já se perguntou como os preços variam ou queria encontrar padrões es
 
 Imagine uma pilha de dados confusa sobre medicamentos, preços e características. Este projeto pega essa bagunça, organiza tudo com carinho e entrega insights claros e objetivos.  
 
-Com Python como nossa seringa e bibliotecas poderosas como `pandas` e `numpy` como nosso medicamento, transformamos esses dados para facilitar análises robustas.  
+Com Python e bibliotecas poderosas como `pandas` e `numpy` como nosso medicamento, transformamos esses dados para facilitar análises robustas.  
 
 ---
 
@@ -26,7 +26,7 @@ Nosso "tratamento" dos dados é dividido em várias etapas importantes:
     Garantimos que nenhum dado se perca no processo, criando um backup seguro antes de qualquer alteração.  
 
 3. **Renomeação de Colunas**  
-    Limpamos e ajustamos nomes de colunas para facilitar o trabalho (adeus, "coluna_confusa_123").  
+    Limpamos e ajustamos nomes de colunas para facilitar o trabalho.  
 
 4. **Verificação de Dados Duplicados**  
     Identificamos e eliminamos possíveis duplicatas que poderiam distorcer os resultados.  

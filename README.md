@@ -58,7 +58,7 @@ Criar uma base de dados limpa e organizada para análises de preços, identifica
 
 1. Clone este repositório e vá para a pasta do projeto:  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/wallacee20/Preco_medicamentos.git
+   cd Preco_medicamentos
 
 

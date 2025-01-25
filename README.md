@@ -1,3 +1,5 @@
+![git.png](https://github.com/wallacee20/Preco_medicamentos/blob/main/git.png)
+
 ##  **Projeto de Engenharia de Dados**  
 
 Bem-vindo ao **Projeto de Análise de Preços de Medicamentos**! 
@@ -52,6 +54,7 @@ Criar uma base de dados limpa e organizada para análises de preços, identifica
 ---
 
 ##  **Como Rodar o Projeto**  
+
 
 1. Clone este repositório e vá para a pasta do projeto:  
    ```bash
